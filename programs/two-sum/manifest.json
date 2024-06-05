@@ -1,0 +1,15 @@
+{
+    "enntrypoint" : "program.py",
+    "tests" :[
+        {
+            "description" : "Tests runs sucessfully",
+            "input" : "2\n6",
+            "output" : "8"
+        },
+        {
+            "description" : "Tests fail",
+            "input" : "2\n6",
+            "output" : "10"
+        }
+    ]
+}

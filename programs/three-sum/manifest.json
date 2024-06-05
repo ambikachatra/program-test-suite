@@ -1,0 +1,15 @@
+{
+    "entrypoint" : "program.py",
+    "tests" : [
+        {
+            "description": "this test should fail",
+            "input": "1\n2\n3",
+            "output": "5"
+        },
+        {
+            "description": "test runs sucessfully for 3 numbers",
+            "input": "1\n2\n3",
+            "output": "6"
+        }
+    ]
+}
