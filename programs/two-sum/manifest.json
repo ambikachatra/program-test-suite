@@ -1,5 +1,5 @@
 {
-    "enntrypoint" : "program.py",
+    "entrypoint" : "program.py",
     "tests" :[
         {
             "description" : "Tests runs sucessfully",
